@@ -1,0 +1,22 @@
+{
+  "name": "cloud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hessian.js": "^2.1.8",
+    "js-to-java": "^2.4.0",
+    "loadbalance": "^0.2.7",
+    "lodash": "^4.13.1",
+    "log4js": "^0.6.37",
+    "node-zookeeper-client": "^0.2.2"
+  },
+  "devDependencies": {
+    "webpack": "^1.13.1"
+  }
+}
